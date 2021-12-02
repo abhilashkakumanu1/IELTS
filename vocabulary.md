@@ -45,3 +45,8 @@
 21. ventilators - machines that provide artificial respiration
 22. **wheezing** - making a rough noise (whistling sound) during breathing because of breathing difficulties
 23. **zoonotic** - relating to disease that is transmitted between animal and people
+24. **acceleration phase** - period of increasing growth of microbes
+25. **community spread** - the spread of a contagious disease to individuals in a particular geographic location who have no known contact with other infected individuals
+26. to disinfect
+27. large gatherings
+28. utmost
