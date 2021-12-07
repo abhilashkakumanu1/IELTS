@@ -1,3 +1,6 @@
+- [Topic 1: Work and careers](#topic-1-work-and-careers)
+  - [Modal Ans](#modal-ans)
+
 ## Topic 1: Work and careers
 
 1. productivity
@@ -35,3 +38,5 @@ On the one hand, it might be said that if workers are fitter and less stressed, 
 Conversely, the problem with such leisure-based subsidies is that their efficacy is virtuallyimpossible to quantify. For example, with target-related payments, employers can at least see whether the objectives are reached or not. It might also be said that, if this budget was spent on (for instance) on the job training or day release programmes, the employees would achieve better career progression and have better job prospects. These matters are all easier to measure, especially in performance reviews and appraisals, and may even help to reduce the risk of redundancy if the company restructures, downsizes or outsources its workforce.
 
 Overall, it seems that, while health-related subsidies are superficially attractive, the lack of measurability is a substantial drawback. Spending funds on ongoing training would appear to be a better use of company or Human Resources budgets.
+
+---
