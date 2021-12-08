@@ -1,25 +1,29 @@
 - [Topic 1: Work and careers](#topic-1-work-and-careers)
-  - [Question](#question)
-  - [Modal Ans](#modal-ans)
+  - [Question - (OPINION > DISCUSSION)](#question---opinion--discussion)
+  - [Model Ans](#model-ans)
   - [Vocabulary](#vocabulary)
 - [Topic 2: Education and schooling](#topic-2-education-and-schooling)
-  - [Question](#question-1)
-  - [Modal Ans](#modal-ans-1)
+  - [Question - (OPINION > PERSON VIEW)](#question---opinion--person-view)
+  - [Model Ans](#model-ans-1)
   - [Vocabulary](#vocabulary-1)
 - [Topic 3: Children and families](#topic-3-children-and-families)
-  - [Question](#question-2)
-  - [Modal Ans](#modal-ans-2)
+  - [Question - (OPINION > DISCUSSION)](#question---opinion--discussion-1)
+  - [Model Ans](#model-ans-2)
   - [Vocabulary](#vocabulary-2)
+- [Topic 4: Nature, the environment and energy](#topic-4-nature-the-environment-and-energy)
+  - [Question - (IDEAS > CAUSE/EFFECT)](#question---ideas--causeeffect)
+  - [Model Ans](#model-ans-3)
+  - [Vocabulary](#vocabulary-3)
 
 ## Topic 1: Work and careers
 
-### Question
+### Question - (OPINION > DISCUSSION)
 
 Some employers offer their employees subsidised membership of gyms and sports clubs, believing that this will make their staff healthier and thus more effective at work. Other employers see no benefit in doing so.
 
 Consider the arguments from both aspects of this possible debate, and reach a conclusion.
 
-### Modal Ans
+### Model Ans
 
 Employers are always seeking ways to enhance their employees’ **productivity**, and **subsidising** healthy pursuits may be one way of achieving this. There are arguments on both sides, however, which we will discuss here.
 
@@ -61,12 +65,12 @@ Overall, it seems that, while health-related subsidies are **superficially** att
 
 ## Topic 2: Education and schooling
 
-### Question
+### Question - (OPINION > PERSON VIEW)
 
 ‘The Internet will never replace traditional course books in schools.’
 How far do you agree with this prediction?
 
-### Modal Ans
+### Model Ans
 
 There is a huge range of resources available to the modern teacher, and the right selection is crucial in delivering effective lessons. I agree that there will always be a place for course books in the school **curriculum**, despite the many benefits of the Internet.
 
@@ -107,11 +111,11 @@ Overall, it appears that course books, with their quality and depth of material,
 
 ## Topic 3: Children and families
 
-### Question
+### Question - (OPINION > DISCUSSION)
 
 Some people believe that children should spend all of their free time with their families. Others believe that this is unnecessary or even negative. Discuss the possible arguments on both sides, and say which side you personally support.
 
-### Modal Ans
+### Model Ans
 
 Nobody can deny that parental influence is important for children, at least in cases where children live with their parents, **foster parents** or **guardians**. However, it is by no means clear that children should spend time exclusively in the family, as we will see.
 
@@ -145,3 +149,48 @@ To conclude, it appears that, while family time is essential for **bonding** and
 20. well brought-up (to bring up children = to raise and educate them in your own moral, behavioural or religious conventions)
 
 ---
+
+## Topic 4: Nature, the environment and energy
+
+### Question - (IDEAS > CAUSE/EFFECT)
+
+Pollution of rivers, lakes and seas is a major concern for people who seek to protect the environment. What are the possible causes of water pollution, and what effects does this have on animal life and human society?
+
+### Model Ans
+
+Water **contamination** is a serious form of pollution, and one that can be challenging to rectify. There seem to be two main causes involved, and a variety of damaging effects on people and the **biosphere**, which we will discuss here.
+
+Probably the main factor is the issue of **emissions** from cars, factories and other human activities. These emissions contain damaging **pollutant particles** which can contaminate rainwater **run-off** and thus enter the **water cycle**, by transferring through the **water table** into **aquifers**, streams and rivers. **Filtration** and processing are not really viable options for such large volumes of water, and so the water table remains **tainted** with these elements over long periods, as we see in Eastern Europe today. In situations where **soil erosion** and **logging** have already damaged the local environment, the accumulation can be very serious. The other major cause is accidental or deliberate **dumping** of **waste** products in places outside of controlled **landfills** or **waste processing** centres. Even small amounts of abandoned waste can enter water supplies through the ground, often undetected.
+
+The effects on animal life can be severe, especially for species which are already endangeredby such threats as **poaching**, **habitat loss** and **food chain disruption**. Contaminated water can lead to **dwindling numbers** or even potential **extinction**, as may indeed happen to the Asian tiger populations. The impact on human society can also be distressing, including the poisoning of drinking water, **famine** or **drought** due to lack of safe **irrigation**, and long-term loss of land as we see, for example, after the Bhopal poisoning **catastrophe** in India. Such effects tend to have an especially grave impact on the very poorest in society, with the least resources to counter the environmental effects.
+
+Overall, we see that emissions and dumping are the main origins of the problem, and that the effects on both humans and animals are **exacerbated** by the existing environmental, criminal or social problems
+
+### Vocabulary
+
+1. contamination
+2. **the biosphere** - the relationship between all living things on the planet
+3. emissions
+4. pollutant particles
+5. **run-off** - water that runs from the ground into rivers and lakes
+6. the water cycle
+7. **aquifiers** - underground, natural water stores
+8. filtration
+9. **water table** - the layer of water below ground
+10. tainted
+11. soil erosion
+12. **logging** - cutting down trees for timber and industrial use
+13. dumping
+14. waste
+15. **landfills** - organised areas where waste is buried in the ground
+16. waste processing
+17. **poaching** - ilegal hunting and killing of animals
+18. habitat loss
+19. food chain
+20. dwindling numbers
+21. extinction
+22. famine - lack of food
+23. drought - lack of water
+24. **irrigation** - supplying water to land for agriculture
+25. catastrophe
+26. **exacerbated** - (to exacerbate = to make an existing problem worse, accidentally or deliberately)
