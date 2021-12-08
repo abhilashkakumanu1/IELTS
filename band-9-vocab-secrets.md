@@ -2,6 +2,8 @@
   - [Modal Ans](#modal-ans)
 - [Education and schooling](#education-and-schooling)
   - [Modal Ans](#modal-ans-1)
+- [Children and families](#children-and-families)
+  - [Modal Ans](#modal-ans-2)
 
 ## Topic 1: Work and careers
 
@@ -79,3 +81,38 @@ However, it is the role of teachers and school management generally to ensure th
 It is true that the Internet can be invaluable for adults (for example in distance learning or self-study modules) who are able to discriminate between sources and sift information to marshal their facts. However, this is a mature skill and we should not assume that school age pupils are ready to do this.
 
 Overall, it appears that course books, with their quality and depth of material, are set to remain an integral part of the syllabus. The internet can be judged a useful supplement to this, if used carefully and under supervision.
+
+---
+
+## Children and families
+
+1. **foster parents** - temporary commitment (unlike adoption)
+2. guardians
+3. role models
+4. ground rules - basic rules governing the way people can behave in a situation
+5. conventions - traditions
+6. codes of conduct - voluntary rules which people accept in a situation
+7. bullying
+8. **truancy** - when a pupil leaves school without permission (verb = to **play truant** from school)
+9. **delinquency** - minor crime (often by young people)
+10. abduction
+11. peer pressure
+12. dual-income
+13. breadwinner
+14. child-minding - caring informally (not in schools) for children when parents are busy or working
+15. after-school childcare - caring for children in a school setting
+16. viable - practical
+17. peers - people in the same group or level as yourself
+18. bonding
+19. patterns of behaviour - ways of acting an doing things
+20. well brought-up (to bring up children = to raise and educate them in your own moral, behavioural or religious conventions)
+
+### Modal Ans
+
+Nobody can deny that parental influence is important for children, at least in cases where children live with their parents, foster parents or guardians. However, it is by no means clear that children should spend time exclusively in the family, as we will see.
+
+On the one hand, it may appear advisable for parents to act as role models and to establish ground rules for behaviour by spending as much time as possible with their children. This allows the youngsters to absorb conventions and codes of conduct which they can then follow themselves, hopefully leading to an absence of problems such as bullying, truancy and delinquency later on. Furthermore, being with the family should reduce the risk of children falling victim to crimes such asabduction, or coming under the influence of negative peer pressure.
+
+On the other hand, we have to ask whether this is a practical proposition. In a society where many families are dual-income, or where one parent’s role as breadwinner means he/she is away from the family for long periods, it is inevitable that children cannot spend all of their time with the family. Child-minding and after-school childcare are often used in these cases, and if managed properly, these can be perfectly viable alternatives. Equally, it seems that children can in some cases learn a considerable amount from their peers in addition to adults, and allowing them to play without direct supervision may be a benefit.
+
+To conclude, it appears that, while family time is essential for bonding and absorbing patterns of behaviour, there are definite advantages when children are outside the family too. This is provided that they are in a safe, well-behaved environment with peers who are themselves reasonably well brought-up.
