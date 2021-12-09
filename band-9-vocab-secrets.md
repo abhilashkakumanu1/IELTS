@@ -14,6 +14,10 @@
   - [Question - (IDEAS > CAUSE/EFFECT)](#question---ideas--causeeffect)
   - [Model Ans](#model-ans-3)
   - [Vocabulary](#vocabulary-3)
+- [Topic 5: Culture, art and traditions](#topic-5-culture-art-and-traditions)
+  - [Question (IDEAS > EVALUATE)](#question-ideas--evaluate)
+  - [Model Ans](#model-ans-4)
+  - [Vocabulary](#vocabulary-4)
 
 ## Topic 1: Work and careers
 
@@ -194,3 +198,50 @@ Overall, we see that emissions and dumping are the main origins of the problem, 
 24. **irrigation** - supplying water to land for agriculture
 25. catastrophe
 26. **exacerbated** - (to exacerbate = to make an existing problem worse, accidentally or deliberately)
+
+---
+
+## Topic 5: Culture, art and traditions
+
+### Question (IDEAS > EVALUATE)
+
+In many countries, traditional dress and costumes are considered effective ways of maintaining links with the past. How effective can traditional costumes be, in this sense?
+What other ways exist to help citizens connect with a country’s past?
+
+### Model Ans
+
+Most people would agree that **preserving** connections with our past is an admirable objective, especially as the world evolves so rapidly. I feel that traditional costumes are one part of doing this, but they are by no means the most important, as we shall see.
+
+Admittedly, historic dress plays a key role in social events such as religious **rituals** or military **parades**, and these events are helpful in **transmitting social memes** such as **public duty** and **self-sacrifice**. Traditional costumes also remind us of the origins of **cultural traditions and mythologies**, for instance the historic Swiss national dress which **evokes** their **medieval** independence.
+
+However, it must be said that costumes are an accessory in these situations, and do not appear to constitute the central message. It is the **ceremonies** themselves which convey the **cultural norms** that help to maintain **the fabric of society**. In this sense, the costumes are of secondary importance. Furthermore, it seems that there are in fact much more powerful ways in which culture is conserved and **handed down** between the generations. Most countries have a rich **heritage** of **legends** and **folklore** about the birth and development of their nation, some of which are mythological and some being grounded in truth (as we see in the English stories about Robin Hood or George and the Dragon, for example.) These stories are a **cultural inheritance** which embodies important symbols and concepts far more effectively than dress. Similarly, we must remember the significance of art and music in passing on our traditions, in **forms** ranging from **fine art** to **handicrafts**, and from **opera** to traditional **shanties** and **dirges**. The presence of visual or **linguistic** messages in these **media** make them more effective than costumes, which convey no language.
+
+Overall, we must recognise and welcome the use of traditional dress in helping to maintain our cultures. However, the forms of story, art and music would appear to be the driving forces in this invaluable process.
+
+### Vocabulary
+
+1. to preserve
+2. rituals
+3. parades
+4. social memes - social habit or patterns which are transmitted between people
+5. public duty
+6. self-sacrifice
+7. cultural traditions
+8. mythology, myth - a classic story from the passt which people know is not true but which carries meaning
+9. to evoke
+10. medieval
+11. ceremonies - ritual, usually involving people in authority
+12. cultural norms
+13. the fabric od society - the way that society is connected and maintained
+14. to conserve - synonym for 'to preserve'
+15. to hand something down - to pass it from parents to children to their children etc
+16. heritage - something inherited
+17. legends - similar to myths, but sometimes containing elements of reality
+18. folklore - old stories and myths/legends, usually transmitted verbally
+19. inheritance - synonym for 'heritage'
+20. fine art - art by famous or acclaimed painters
+21. handicrafts - skill of making objects by hand, and also the objects themeselves
+22. opera
+23. shanties and dirges - very traditions songs about basic subject
+24. lingusitic - about language
+25. media - a way of communicating. (the media - means all the newspapers, broadcasters, wewbsites, and magazines)
