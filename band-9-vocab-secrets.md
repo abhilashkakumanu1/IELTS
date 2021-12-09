@@ -34,6 +34,10 @@
   - [Question (OPINION > DISCUSSION)](#question-opinion--discussion)
   - [Model Ans](#model-ans-8)
   - [Vocabulary](#vocabulary-8)
+- [Topic 10: Government and the authorities](#topic-10-government-and-the-authorities)
+  - [Question (OPINION > PERSONAL VIEW)](#question-opinion--personal-view-1)
+  - [Model Ans](#model-ans-9)
+  - [Vocabulary](#vocabulary-9)
 
 ## Topic 1: Work and careers
 
@@ -444,3 +448,53 @@ Overall, it seems to me that quality of life in the countryside today is indeed 
 21. far-flung - remote or far away
 
 ---
+
+## Topic 10: Government and the authorities
+
+### Question (OPINION > PERSONAL VIEW)
+
+Some observers say that police officers should be recruited from the communities where they work, so that they have local knowledge. Other people say that this is unnecessary, or even undesirable. Where do you stand on this debate? Is local knowledge essential in modern policing?
+
+### Model Ans
+
+The need for effective, **trustworthy** police officers is **paramount** in society today, especially as criminals become more **devious** and creative. Regarding whether police should be locally hired, there is a case to be made on both sides of the debate.
+
+Those who support local recruitment of officers point to the need for the police to understand the **minutiae** of the local community. For example, a community may have certain **frictions** or a history of a specific **grievance**, whether religious, political or otherwise. In such situations, the argument goes, the police need to show **sensitivity**, and also be able to anticipate the kinds of crimes that may be **committed**. Furthermore, local officers may find it easier to gain **informants** in the community, leading to stronger **evidence** at **trials**, higher **conviction** rates and a **deterrent** to crime through **sentencing**, **imprisonment**, **fines** or **community service** leading to **rehabilitation** of the **offender**.
+
+On the other hand, it seems likely that officers from the community may in fact share some of the **tendencies** of the people they grew up with. For example, in countries such as Mexico, we see a high incidence of **corruption** among the local business and government community which is equalled by **bribery** among the police. A second objection is that local sensitivity may lead to the police failing to **enforce laws** fully, and effectively making exceptions for some offenders, which is **unequitable** towards **law-abiding** citizens. Finally, we must remember that police officers should have **transferable skills**, such as **lateral thinking** and **investigative** ability, which should **transcend** their background or the environment they are working in.
+
+Overall, it seems to me that local knowledge is not absolutely essential for the police, whose skills should be effective in any **context**. Indeed, I agree with those who say that the risks of local recruitment **outweigh** the benefits, because of the danger of corruption and **over-familiarity** with potential offenders.
+
+### Vocabulary
+
+1. trustworthy
+2. **paramount** - of the great importance
+3. **devious** - extremely clever in a dishonest way
+4. minutiae (pronounced ‘my-new-shy’) - small details
+5. grievance - an issue which makes people upset or angry for a long time
+6. sensitivity
+7. to commit and offence/a crime
+8. informants
+9. evidence
+10. a trial - legal procedure of prosecuting someone of a crime
+11. **conviction rates** - the percentage of accused people who are convicted of (= found to be guilty of) a crime
+12. **a deterrent** - something that makes people not want to do something (verb = to deter)
+13. **sentencing** - the action of telling a convicted criminal what the punishment is (verb = to sentence)
+14. imprsonment
+15. a fine
+16. community service
+17. **rehabilitation** - the process of changing a criminal’s character so that he does not commit more crimes (verb = to rehabilitate someone)
+18. **an offender** - a person who commits an offence
+19. **tendencies** - inclinations due to your character (usually negative)
+20. corruption - the crime when an official breaks laws to help people that he knows
+21. bribery - the crime of giving money to officials to get something done
+22. to enforce laws
+23. **unequitable** - unfair or different for different groups
+24. **law-abiding**
+25. **transferable skills** - skills that can be used in different situations
+26. lateral thinking
+27. investigate
+28. **to transcend** a situation - to be bigger or go beyond it
+29. a context
+30. to outweigh
+31. over-familiarity
