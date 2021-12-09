@@ -26,6 +26,10 @@
   - [Question (OPINION > PERSONAL VIEW)](#question-opinion--personal-view)
   - [Model Ans](#model-ans-6)
   - [Vocabulary](#vocabulary-6)
+- [Topic 8: Cities and infrastucture](#topic-8-cities-and-infrastucture)
+  - [Question (IDEAS > MIXED > CAUSE SOLUTION)](#question-ideas--mixed--cause-solution)
+  - [Model Ans](#model-ans-7)
+  - [Vocabulary](#vocabulary-7)
 
 ## Topic 1: Work and careers
 
@@ -346,3 +350,51 @@ To conclude, it seems logical to accept that joblessness is a major challenge fo
 17. livelihood - the way a person makes a living
 18. developed countries
 19. developing countries
+
+---
+
+## Topic 8: Cities and infrastucture
+
+### Question (IDEAS > MIXED > CAUSE SOLUTION)
+
+Transport delays and long journey times are a widespread phenomenon in many cities today. What are the causes of this problem, and how could the situation be improved?
+
+### Model Ans
+
+Transport is an essential part of **urban** life, and lengthy journeys are frustrating and expensive for those concerned. There appear to be two main causes of this, and several possible solutions, as we will explain here.
+
+Perhaps the main cause is the lack of **investment or funding for infrastructure** in the form of **high-capacity public transport** and increased road space for private vehicles. This means that too many vehicles use the existing network, and **congestion** is inevitable. We see this in most large cities globally, such as London or Tokyo. Many **conurbations** also lack finance for **transport hubs**, such as integrated road and rail **facilities** which could connect public and private transport, thus reducing **bottlenecks**. A further cause seems to be the problem of **overcrowding** in cities, whereby people migrate from the **hinterland** and **settle** in urban areas, putting strain on **amenities**, housing and above all on transport capacity. This means that an already stretched system is often pushed to a critical point, causing cancellations and breakdowns in the technology used, especially in situations of **urban sprawl** such as in Latin America.
+
+Regarding potential solutions, probably the main remedy would be to encourage investment inbetter infrastructure, for example through subsidies or **public-private partnerships** as was tried successfully in Germany during the 1990’s. This enhances the network and fosters a sense of **civic pride**, to everyone’s benefit. Another solution may be to use **tax incentives** to allow more home working, so that there is less need to **commute** from the **suburbs** to the **inner city** for work. A final response might be the development of more flexible patterns of transport, such as **communal car-pooling**, which would reduce reliance on existing systems and vehicles.
+
+In conclusion, it seems that **outdated** infrastructure and overcrowding are the key factors behind our transport frustrations. Possible solutions would involve better funding, and also innovations in ways of working and travelling to reduce the burden on the system.
+
+### Vocabulary
+
+1. urban
+2. investment or funding
+3. infrastructure - the physical and system organisation of a city, area or country, especially in terms of transport and communications
+4. high-capacity
+5. public transport - state funded transport
+6. congestion
+7. **conurbations** - very large cities which have absorbed other towns
+8. transport hubs - centres where many routes converge
+9. **facilities and amenities** - places providing any service to the public, either private or public sector
+10. **a bottleneck** - a place where congestion regulary happens
+11. overcrowding - a siuation where too many people try to live in one place
+12. **hinterland** - the are around a city affected by its development
+13. to settle in a place
+14. **urban sprawl** - the situation where a city expands and buildings are constructed without control or laws
+15. public-private partnerships - projects funded jointly by the government and business, to reduce the cost to the taxpayer
+16. civic pride
+17. tax incentives
+18. home working
+19. to commute - to travel a long distance to work every day
+20. **suburbs** - the residential area around a city
+21. the inner city
+22. **communal car-pooling** - a voluntary system for people to travel in a shared car, to reduce fuel use
+23. outdated
+24. innovations
+25. a burden
+
+---
