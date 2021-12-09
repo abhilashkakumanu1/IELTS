@@ -30,6 +30,10 @@
   - [Question (IDEAS > MIXED > CAUSE SOLUTION)](#question-ideas--mixed--cause-solution)
   - [Model Ans](#model-ans-7)
   - [Vocabulary](#vocabulary-7)
+- [Topic 9: Countryside and agriculture](#topic-9-countryside-and-agriculture)
+  - [Question (OPINION > DISCUSSION)](#question-opinion--discussion)
+  - [Model Ans](#model-ans-8)
+  - [Vocabulary](#vocabulary-8)
 
 ## Topic 1: Work and careers
 
@@ -396,5 +400,47 @@ In conclusion, it seems that **outdated** infrastructure and overcrowding are th
 23. outdated
 24. innovations
 25. a burden
+
+---
+
+## Topic 9: Countryside and agriculture
+
+### Question (OPINION > DISCUSSION)
+
+It is sometimes said that the countryside offers a high quality of life, especially for families. What are the arguments for and against families choosing to live and work in the countryside, for example as farmers? What is your own view about this?
+
+### Model Ans
+
+There can be few choices in life more important than where to settle as a family, and the question of an urban or **rural** location is complex. There are strong arguments for and against living in the countryside, as we will discuss now.
+
+On the one hand, it might be said that the countryside is rather a **backwater**, with fewer cultural amenities than a city in the form of museums, theatres and even sporting events. This may mean that families become isolated, especially as **rural depopulation** leaves fewer **country dwellers** in the area, as we see, for example, in central France. Added to this is the **scarcity** of schools and colleges, meaning that children may need to travel long distances for their education. Finally, career options may be more limited in the countryside for both parents and children, resulting in **rural unemployment** and long-term **rural poverty** in the worst cases.
+
+Conversely, life in the countryside has rewards which go beyond **material considerations**. For example, the **abundance** of natural resources such as land, **wildlife** **forestry** and **water bodies** means that a comparatively simple life can be lived at a **subsistence** level. Many country residents are **self-sufficient** **smallholders** in this sense, safeguarding them from the changes in the **wider economy** which can **afflict city dwellers**. If the parents are farmers, children learn the importance of **animal husbandry**, methods of farming such as **crop rotation** and irrigation, and generally may become more in tune with the natural world as a result. Finally, as technology enables children to undertake distance learning or **remote viewing** of cultural attractions such as museums, they should be less isolated from their cultural heritage.
+
+Overall, it seems to me that quality of life in the countryside today is indeed quite high, with its advantages of resources, self-sufficiency and **environmental awareness**. This is especially true now that communications are reducing the risk of isolation in such **far-flung** communities.
+
+### Vocabulary
+
+1. rural
+2. a backwater - an area of a country where little of interest happens
+3. **rural depopulation** - he long-term tr end for people to migrate from the countryside to cities, leaving the rural areas with few people
+4. country dwellers (vs city dwellers)
+5. a scarcity
+6. rural unmployment
+7. rural poverty
+8. **material considerations** - concerns about money and material possessions
+9. an abundance
+10. wildlife
+11. forestry
+12. water bodies - inland areas of water (rivers, lakes, reservoirs etc)
+13. **subsistence** - adjective meaning ‘producing just enough to live on’
+14. self-sufficient
+15. the wider economy - the national economy in a country
+16. to afflict - to affect (sed for problems or diseases)
+17. **animal husbandry** - the skill of keeping animals
+18. crop rotation
+19. remote viewing
+20. environmental awareness
+21. far-flung - remote or far away
 
 ---
