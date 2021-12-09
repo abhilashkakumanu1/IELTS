@@ -18,6 +18,10 @@
   - [Question (IDEAS > EVALUATE)](#question-ideas--evaluate)
   - [Model Ans](#model-ans-4)
   - [Vocabulary](#vocabulary-4)
+- [Topic 6: Healthcare, health and sport](#topic-6-healthcare-health-and-sport)
+  - [Question (IDEA > PROBLEM/SOLUTION)](#question-idea--problemsolution)
+  - [Model Ans](#model-ans-5)
+  - [Vocabulary](#vocabulary-5)
 
 ## Topic 1: Work and careers
 
@@ -223,7 +227,7 @@ Overall, we must recognise and welcome the use of traditional dress in helping t
 1. to preserve
 2. rituals
 3. parades
-4. social memes - social habit or patterns which are transmitted between people
+4. **social memes** - social habit or patterns which are transmitted between people
 5. public duty
 6. self-sacrifice
 7. cultural traditions
@@ -236,12 +240,62 @@ Overall, we must recognise and welcome the use of traditional dress in helping t
 14. to conserve - synonym for 'to preserve'
 15. to hand something down - to pass it from parents to children to their children etc
 16. heritage - something inherited
-17. legends - similar to myths, but sometimes containing elements of reality
-18. folklore - old stories and myths/legends, usually transmitted verbally
+17. **legends** - similar to myths, but sometimes containing elements of reality
+18. **folklore** - old stories and myths/legends, usually transmitted verbally
 19. inheritance - synonym for 'heritage'
 20. fine art - art by famous or acclaimed painters
 21. handicrafts - skill of making objects by hand, and also the objects themeselves
 22. opera
-23. shanties and dirges - very traditions songs about basic subject
-24. lingusitic - about language
-25. media - a way of communicating. (the media - means all the newspapers, broadcasters, wewbsites, and magazines)
+23. **shanties and dirges** - very traditions songs about basic subject
+24. **lingusitic** - about language
+25. **media** - a way of communicating. (the media - means all the newspapers, broadcasters, wewbsites, and magazines)
+
+---
+
+## Topic 6: Healthcare, health and sport
+
+### Question (IDEA > PROBLEM/SOLUTION)
+
+Many doctors are concerned about the high use of computer games by children and young people. What mental and physical problems may arise from excessive use of these games? How could these problems be reduced?
+
+### Model Ans
+
+Children appear to enjoy playing video games, and while there are undoubted benefits, various negative effects **stem** from this too. Let us consider the main issues, and then outline possible remedies.
+
+Perhaps the major physical problem is the **sedentary lifestyle** which these games encourage, meaning that youngsters may incline to **obesity** or **inadequate development**. Added to this is the **strain** on eyesight resulting from excessive use of screens and consoles, meaning that children may suffer **symptoms** of poor vision. There are also concerns about **impairment** of reflexes due to the repetitive nature of the hand muscles when playing these games, and about the **poor diet** of **convenience food** which often accompanies this lifestyle.
+
+The most alarming psychological impact of such activities is possibly the risk of **addiction**, meaning that children become obsessed with the games and are unable to **socialise** with family or peers. This undermines their **interpersonal skills** and makes them **underperform** both academically and socially.
+
+Turning to possible solutions, perhaps the immediate step would be to promote a more **active lifestyle** through exercise **regimes** or sports **programmes** which would help to **detoxify** the lifestyles of children affected. This could be done through **sponsorship** of sports, or **participation** in **competitive** events such as races or matches, hopefully **ameliorating the physical effects** of excessive games use. Potential **remedies** for the danger of mental addiction may be, firstly, an **initiative** to **raise awareness** of the risks of the situation, for example through **health warnings** on games packaging or through high-profile spokespersons spreading such a message. For example, if sports **champions** or **figureheads** speak out about these dangers, the message may well get through to children.
+
+To sum up, the risks posed by excessive gaming are connected to an unhealthy lifestyle and the possibility of **dependency** on the activity. Possible answers might involve stronger education about the dangers and the health benefits of more active **pursuits**.
+
+### Vocabulary
+
+1. to stem from
+2. **sedentary lifestyle** - a lifestyle where people sit for long periods and are generally inactive
+3. obesity
+4. inadequate development
+5. strain
+6. symptoms
+7. impairment (verb = to impair = to hinder or damage an ability)
+8. poor diet
+9. **convenience food** - food which is cooked in its packaging, usually in a microwave
+10. addiction
+11. to socialise
+12. interpersonal skills - skills of dealing with people successfully
+13. to underperform
+14. active lifestyle
+15. a **regime**, a programme - a planned system of exercise, diet or sport. (regime also means a strict government)
+16. sponsorship
+17. participation
+18. competitive
+19. **ameliorating the physical effects** - to ameliorate = to make a problem less damaging
+20. remedies
+21. an initiative - a new programme or idea, usually in government or business
+22. raise awareness
+23. health warnings
+24. champions
+25. **figureheads** - people who represent part of society, officially or unofficially
+26. dependency - he condition of relying on something in an addictive way
+27. pursuits
