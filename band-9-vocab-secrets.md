@@ -22,6 +22,10 @@
   - [Question (IDEA > PROBLEM/SOLUTION)](#question-idea--problemsolution)
   - [Model Ans](#model-ans-5)
   - [Vocabulary](#vocabulary-5)
+- [Topic 7: global challenges](#topic-7-global-challenges)
+  - [Question (OPINION > PERSONAL VIEW)](#question-opinion--personal-view)
+  - [Model Ans](#model-ans-6)
+  - [Vocabulary](#vocabulary-6)
 
 ## Topic 1: Work and careers
 
@@ -299,3 +303,46 @@ To sum up, the risks posed by excessive gaming are connected to an unhealthy lif
 25. **figureheads** - people who represent part of society, officially or unofficially
 26. dependency - he condition of relying on something in an addictive way
 27. pursuits
+
+---
+
+## Topic 7: global challenges
+
+### Question (OPINION > PERSONAL VIEW)
+
+‘Unemployment remains the biggest challenge to school-leavers in most countries’
+How far do you agree with this assessment? What other challenges face young people today?
+
+### Model Ans
+
+Youth unemployment is certainly a worrying **challenge** for most countries, especially at a time of **economic instability** and **social unrest**. However, to say that this is the largest **issue** is to overlook a range of equally **pressing matters**, as we will discuss now.
+
+It must be admitted that **joblessness** can undermine a young person’s **economic prospects** and consequent **social mobility**. Nevertheless, this issue can be ameliorated by coordinated action between the state and the **private sector**, as we have seen, for instance, in Canada recently. When this is realized, we can see that other concerns are at least as serious.
+
+Foremost among these is perhaps the issue of age **demographics**, whereby young people bearthe burden for an increasingly elderly population with high **longevity**. This means that young people will pay higher taxes and work longer hours, possibly forcing them to **migrate** to countries where this pressure is lower. The effect of this is the **‘brain drain’** situation which can be seen in southern Europe, where young, ambitious people prefer to leave their countries altogether, exacerbating the problem for those remaining.
+
+Furthermore, we must remember that a substantial proportion of young people globally face **existential threats** such as **famine**, **drought** or **outbreaks** of disease. These problems are often caused by (or are compounded by) **civil war**, **political instability** or the **corruption** of people in power locally. Such risks are a danger to their safety in addition to their livelihood, and so would appear to be far more serious than unemployment.
+
+To conclude, it seems logical to accept that joblessness is a major challenge for young people. However, persistent trends in demographics among **developed countries** and the presence of physical dangers in **developing countries** should be regarded as at least as severe.
+
+### Vocabulary
+
+1. a challenge
+2. economic or political instability
+3. social unrest
+4. an issue
+5. pressing matters - urgent. important issues
+6. joblessness
+7. economic prospects
+8. social mobility - the ability of people to progress in terms of salary, lifestyle and social status
+9. the private sector
+10. demographics - the changes in society in terms of age, income, numbers, origins and location in a country
+11. longevity - the tendency to have a long life expectancy
+12. to migrate
+13. **'brain drain'** - the tendency for intelligent or successful workers to migrate out of a country (usually expressed in quotes ‘’)
+14. existential threats
+15. an outbreak
+16. civil war
+17. livelihood - the way a person makes a living
+18. developed countries
+19. developing countries
